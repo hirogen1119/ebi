@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Ebihaze",
+    "slug": "ebihaze",
+    "sdkVersion": "31.0.0",
+    "icon": "./icon.png",
+    "orientation": "portrait",
+    "loading": {
+      "icon": "./icon_rounded.png"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#a3710e"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ebihaze.app",
+      "buildNumber": "0.9.8",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ebihaze",
+      "versionCode": 57
+    },
+    "version": "0.9.9.9",
+    "notification": {
+      "icon": "./icon.png"
+    }
+  }
+}
